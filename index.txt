@@ -9,16 +9,16 @@ Web developer
 Show Contacts
 
 Email
-richard@example.com
+wonjin0403@postech.ac.kr
 
 Phone
-+1 (213) 352-2795
++82 (010) 5140-8897
 
 Birthday
-June 23, 1982
+April 04, 1997
 
 Location
-Sacramento, California, USA
+MLV Lab
 
 # navbar
 
